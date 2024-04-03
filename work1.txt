@@ -2,3 +2,5 @@ test_20240402 main-branch에 파일 work1 생성
 생성된 work1을 remot repository인 github에 commit 시켜보기
 
 내용을 2차 변경해보기
+
+깃허브에서 내용을 변경해보기
